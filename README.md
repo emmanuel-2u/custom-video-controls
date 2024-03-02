@@ -9,6 +9,9 @@ Here are some articles that helped me:
 
 ## How to run
 Here are some screenshots of the app:
+First Image            |  Second Image      | Third Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![First view](https://img.hotimg.com/video-player-one.jpeg) | ![Second view](https://img.hotimg.com/video-player-three.jpeg)   |   ![Third view](https://img.hotimg.com/video-player-two.jpeg)
 
 To run it locally, clone the repo and run ```npm install```. Then run ```npm start```
 
